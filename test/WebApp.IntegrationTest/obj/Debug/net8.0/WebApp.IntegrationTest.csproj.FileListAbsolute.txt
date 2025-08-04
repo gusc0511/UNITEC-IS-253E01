@@ -1,0 +1,6 @@
+C:\Users\hp\Project253E01\Project253E01\test\WebApp.IntegrationTest\bin\Debug\net8.0\CoverletSourceRootsMapping_WebApp.IntegrationTest
+C:\Users\hp\Project253E01\Project253E01\test\WebApp.IntegrationTest\obj\Debug\net8.0\WebApp.IntegrationTest.csproj.AssemblyReference.cache
+C:\Users\hp\Project253E01\Project253E01\test\WebApp.IntegrationTest\obj\Debug\net8.0\WebApp.IntegrationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Project253E01\Project253E01\test\WebApp.IntegrationTest\obj\Debug\net8.0\WebApp.IntegrationTest.AssemblyInfoInputs.cache
+C:\Users\hp\Project253E01\Project253E01\test\WebApp.IntegrationTest\obj\Debug\net8.0\WebApp.IntegrationTest.AssemblyInfo.cs
+C:\Users\hp\Project253E01\Project253E01\test\WebApp.IntegrationTest\obj\Debug\net8.0\WebApp.IntegrationTest.csproj.CoreCompileInputs.cache
